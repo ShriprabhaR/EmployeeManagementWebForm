@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\employeemanagementwebform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|solutionrelative:employeemanagementwebform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\employeemanagementwebform\\emppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|solutionrelative:employeemanagementwebform\\emppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\employeemanagementwebform\\model\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|solutionrelative:employeemanagementwebform\\model\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|c:\\users\\hp\\source\\repos\\employeemanagementwebform\\employeemanagementwebform\\emppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|solutionrelative:employeemanagementwebform\\emppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\employeemanagementwebform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|solutionrelative:employeemanagementwebform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\employeemanagementwebform\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2521674F-3373-4434-AE72-AFBA37D9F7DA}|EmployeeManagementWebForm\\EmployeeManagementWebForm.csproj|solutionrelative:employeemanagementwebform\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Site.Master",
+              "RelativeDocumentMoniker": "EmployeeManagementWebForm\\Site.Master",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Site.Master",
+              "RelativeToolTip": "EmployeeManagementWebForm\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-10T06:58:24.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpPage.aspx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\EmpPage.aspx",
+              "RelativeDocumentMoniker": "EmployeeManagementWebForm\\EmpPage.aspx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\EmpPage.aspx",
+              "RelativeToolTip": "EmployeeManagementWebForm\\EmpPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-10T07:45:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\EmpPage.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebForm\\EmpPage.aspx.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\EmpPage.aspx.cs",
+              "RelativeToolTip": "EmployeeManagementWebForm\\EmpPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:52:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Model\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebForm\\Model\\EmployeeDAL.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Model\\EmployeeDAL.cs",
+              "RelativeToolTip": "EmployeeManagementWebForm\\Model\\EmployeeDAL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:22:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebForm\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Model\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementWebForm\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:19:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeManagementWebForm\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeManagementWebForm\\EmployeeManagementWebForm\\Web.config",
+              "RelativeToolTip": "EmployeeManagementWebForm\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-10T05:45:33.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
